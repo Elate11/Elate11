@@ -45,29 +45,37 @@
 
 <table>
   <tr>
-    <td width="25%" valign="top"><b>Machine Learning</b></td>
-    <td>
+    <td width="26%" valign="middle"><b>Machine Learning</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&theme=dark" height="34" alt="ML Stack" />
+      <br/>
       <code>PyTorch</code> &bull; <code>HuggingFace</code> &bull; <code>Transformers</code> &bull; <code>Scikit-Learn</code> &bull; <code>Pandas</code> &bull; <code>NumPy</code> &bull; <code>OpenCV</code>
       <br/>
-      <small><i>Two-Tower retrieval, Neural Collaborative Filtering, ranking metrics (NDCG, Recall@K), quantization</i></small>
+      <small style="color: #8b949e;"><i>Two-Tower candidate retrieval, Neural Collaborative Filtering (NeuMF), ranking metrics (NDCG, Recall@K), quantization</i></small>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><b>Languages</b></td>
-    <td>
+    <td width="26%" valign="middle"><b>Languages</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=python,cpp,c,swift,kotlin,bash&theme=dark" height="34" alt="Languages" />
+      <br/>
       <code>Python</code> &bull; <code>C++20</code> &bull; <code>Swift</code> &bull; <code>SQL</code> &bull; <code>Kotlin</code> &bull; <code>Bash</code>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><b>Backend & Infra</b></td>
-    <td>
+    <td width="26%" valign="middle"><b>Backend &amp; Infra</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,redis,docker,linux,git&theme=dark" height="34" alt="Backend & Infra" />
+      <br/>
       <code>FastAPI</code> &bull; <code>PostgreSQL</code> &bull; <code>Redis</code> &bull; <code>Docker</code> &bull; <code>Docker Compose</code> &bull; <code>Celery</code> &bull; <code>WebSockets</code> &bull; <code>Git</code> &bull; <code>Linux</code>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><b>Systems & Concepts</b></td>
-    <td>
-      <code>Digital Signal Processing (DSP)</code> &bull; <code>CoreAudio</code> &bull; <code>ACID & Concurrency Control</code> &bull; <code>Idempotency</code> &bull; <code>Clean Architecture</code>
+    <td width="26%" valign="middle"><b>Systems &amp; DSP</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=cpp,apple,linux&theme=dark" height="34" alt="Systems" />
+      <br/>
+      <code>Digital Signal Processing (DSP)</code> &bull; <code>CoreAudio</code> &bull; <code>ACID &amp; Concurrency Control</code> &bull; <code>Idempotency</code> &bull; <code>Clean Architecture</code>
     </td>
   </tr>
 </table>
@@ -81,8 +89,8 @@
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Elate11/recsys">🛍️ RecSys: Two-Tower & Neural Ranking</a></h4>
-      <p style="color: #8b949e; font-size: 0.9rem;">
-        <i>PyTorch &middot; FastAPI &middot; Docker &middot; NeuMF</i>
+      <p>
+        <img src="https://skillicons.dev/icons?i=pytorch,fastapi,docker,python&theme=dark" height="24" alt="RecSys Stack" />
       </p>
       <p>Многостадийный рекомендательный пайплайн для e-commerce: от эвристических бейзлайнов до нейросетевых архитектур поиска кандидатов и ранжирования.</p>
       <ul>
@@ -94,8 +102,9 @@
     <!-- PROJECT 2: NLP Toolkit -->
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Elate11/sentiment_analysis_project">📝 NLP Toolkit: Classification & Summarization</a></h4>
-      <p style="color: #8b949e; font-size: 0.9rem;">
-        <i>PyTorch &middot; HuggingFace &middot; Transformers &middot; DistilBERT</i>
+      <p>
+        <img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark" height="24" alt="NLP Stack" />
+        <img src="https://img.shields.io/badge/HuggingFace-Transformers-1f2328?style=flat-square&logo=huggingface&logoColor=FFD21E" height="24" alt="HuggingFace" />
       </p>
       <p>Сквозной пайплайн анализа тональности текста и бенчмарк методов автоматической суммаризации с оптимизацией под CPU.</p>
       <ul>
@@ -110,8 +119,8 @@
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Elate11/AuraSound">🎵 AuraSound Max: Real-Time Audio DSP</a></h4>
-      <p style="color: #8b949e; font-size: 0.9rem;">
-        <i>C++20 &middot; Swift &middot; macOS CoreAudio &middot; DSP</i>
+      <p>
+        <img src="https://skillicons.dev/icons?i=cpp,swift,apple&theme=dark" height="24" alt="AuraSound Stack" />
       </p>
       <p>Профессиональный аудиокомбайн и DSP-процессор для macOS с фазовой компенсацией задержки через микрофон и аппаратным микшером.</p>
       <ul>
@@ -123,8 +132,8 @@
     <!-- PROJECT 4: High-Concurrency Backend -->
     <td width="50%" valign="top">
       <h4>🎟️ High-Concurrency Ticket Booking API</h4>
-      <p style="color: #8b949e; font-size: 0.9rem;">
-        <i>FastAPI &middot; PostgreSQL &middot; Redis &middot; Celery &middot; WebSockets</i>
+      <p>
+        <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker&theme=dark" height="24" alt="Booking Stack" />
       </p>
       <p>Отказоустойчивый сервис бронирования, спроектированный для защиты от race conditions в условиях пиковых параллельных нагрузок.</p>
       <ul>
