@@ -1,7 +1,14 @@
 <div align="center">
 
 <!-- HEADER WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,31&height=230&section=header&text=Aleksandr%20Sorokoletov&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20RecSys%20%26%20NLP&descFontSize=19&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,31&height=220&section=header&text=Aleksandr%20Sorokoletov&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20RecSys%20%26%20NLP&descFontSize=19&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+
+<!-- AVATAR PHOTO -->
+<a href="https://github.com/Elate11">
+  <img src="assets/avatar_round.png" width="155" height="155" alt="Aleksandr Sorokoletov" />
+</a>
+
+<br/><br/>
 
 <!-- TYPING ANIMATION (ML FOCUSED) -->
 <a href="https://github.com/Elate11">
