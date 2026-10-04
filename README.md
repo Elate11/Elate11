@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,31&height=230&section=header&text=Aleksandr%20Sorokoletov&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Architect%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20ML%20Practitioner&descFontSize=19&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,31&height=230&section=header&text=Aleksandr%20Sorokoletov&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20RecSys%20%26%20NLP&descFontSize=19&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION (ML FOCUSED) -->
 <a href="https://github.com/Elate11">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=High-Performance+Backends+(Python+%2F+FastAPI+%2F+PostgreSQL);Low-Latency+Systems+Programming+(C%2B%2B20+%2F+Swift+%2F+CoreAudio);Applied+Machine+Learning+%26+Two-Tower+RecSys;BSUIR+Software+Engineering+Student+'29;Concurrency%2C+ACID+Transactions+%26+Resilient+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=740&lines=Machine+Learning+Engineer+%7C+Deep+Learning+%26+Applied+AI;RecSys%3A+Two-Tower+Candidate+Retrieval+%26+NeuMF+Ranking;NLP%3A+Transformers%2C+DistilBERT+Fine-Tuning+%26+Summarization;Production+ML%3A+FastAPI+Inference%2C+Docker+%26+Optimization;BSUIR+Software+Engineering+Student+'29" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -14,7 +14,7 @@
 <a href="https://t.me/e1ate"><img src="https://img.shields.io/badge/Telegram-@e1ate-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="mailto:alex.sorokoletov08@gmail.com"><img src="https://img.shields.io/badge/Gmail-alex.sorokoletov08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.bsuir.by/"><img src="https://img.shields.io/badge/BSUIR-Software%20Engineering-0052CC?style=for-the-badge&logo=google-scholar&logoColor=white" alt="BSUIR" /></a>
-<a href="#-избранные-проекты--featured-projects"><img src="https://img.shields.io/badge/Minsk%2C%20Belarus-📍-black?style=for-the-badge" alt="Location" /></a>
+<a href="#-избранные-проекты-в-ml--featured-projects"><img src="https://img.shields.io/badge/Minsk%2C%20Belarus-📍-black?style=for-the-badge" alt="Location" /></a>
 
 </div>
 
@@ -22,136 +22,139 @@
 
 ---
 
-### 💻 Developer Identity & Profile
+### 🧠 ML Engineer Profile & Research Focus
 
 ```jsonc
 {
   "engineer": "Александр Сороколетов (Aleksandr Sorokoletov)",
+  "role": "Machine Learning Engineer / Applied AI Researcher",
   "education": "BSUIR (Белорусский государственный университет информатики и радиоэлектроники)",
   "faculty": "Факультет компьютерного проектирования | Программная инженерия (2025–2029)",
   "location": "Minsk, Belarus 🇧🇾",
-  "specialization": [
-    "High-Performance Backend & Distributed Systems",
-    "Real-Time Low-Latency Audio & Systems Engineering (macOS / C++)",
-    "Applied Machine Learning (RecSys, Two-Tower architectures, NLP)"
+  "ml_specialization": [
+    "Recommendation Systems (Two-Tower Retrieval, Neural Collaborative Filtering / NeuMF)",
+    "Natural Language Processing (Transformers, DistilBERT fine-tuning, Summarization benchmarks)",
+    "Efficient ML Inference (CPU optimization, model serving with FastAPI & Docker)",
+    "Audio DSP & Signal Processing (spectral analysis, real-time feature extraction)"
   ],
-  "current_focus": "Concurrency control, ACID guarantees, audio DSP pipelines & microservices",
-  "philosophy": "Code that handles edge cases gracefully, scales reliably, and stays maintainable"
+  "current_focus": "Ranking algorithms, multi-stage recommender pipelines, LLM fine-tuning & inference acceleration",
+  "engineering_motto": "From rigorous mathematical foundations to resilient, low-latency production ML systems"
 }
 ```
 
 ---
 
-### 🛠️ Технологический стек / Tech Stack
+### 🛠️ ML & Engineering Stack
 
 <div align="center">
 
-<!-- MODERN SKILL ICONS (Crisp Dark Theme) -->
+#### 🔬 Машинное обучение, Data Science и Инференс
+<!-- CRISP DARK SKILL ICONS -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,c,cpp,swift,kotlin,docker,linux,git,bash,pytorch&perline=7" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,python,fastapi,docker,postgres,c,cpp,swift,linux,git,bash&perline=7" alt="ML & Dev Tech Stack" />
 </a>
 
 <br/><br/>
 
-<!-- ARCHITECTURE & SYSTEM BADGES -->
+<!-- ML DOMAIN & ARCHITECTURE BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Concurrency%20Control-38BDF8?style=flat-square&logo=speedtest&logoColor=white" />
-  <img src="https://img.shields.io/badge/ACID%20Transactions-818CF8?style=flat-square" />
-  <img src="https://img.shields.io/badge/WebSockets%20%26%20Celery-34D399?style=flat-square" />
-  <img src="https://img.shields.io/badge/CoreAudio%20%26%20DSP-F472B6?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Two--Tower%20RecSys-FBBF24?style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-A78BFA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Two--Tower%20Retrieval-38BDF8?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural%20Collaborative%20Filtering%20(NeuMF)-818CF8?style=flat-square" />
+  <img src="https://img.shields.io/badge/HuggingFace%20%26%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/DistilBERT%20Fine--Tuning-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ranking%20Metrics%20(NDCG%20%2F%20Recall@K)-34D399?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model%20Quantization%20%26%20Serving-F472B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Digital%20Signal%20Processing%20(Audio%20DSP)-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-### 🌟 Избранные проекты / Featured Projects
+### 🌟 Избранные проекты в ML / Featured Projects
 
 <table>
-  <!-- ROW 1: AuraSound & RecSys -->
+  <!-- ROW 1: RecSys & NLP Toolkit -->
   <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/Elate11/AuraSound">
-          <img src="https://raw.githubusercontent.com/Elate11/AuraSound/main/docs/logo.png" width="90" alt="AuraSound Logo" style="border-radius: 12px; margin-bottom: 8px;" />
-        </a>
-        <br/>
-        <h3><a href="https://github.com/Elate11/AuraSound">🎵 AuraSound Max</a></h3>
-        <p>
-          <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-          <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white" />
-          <img src="https://img.shields.io/badge/CoreAudio%20DSP-000000?style=flat-square&logo=apple&logoColor=white" />
-        </p>
-      </div>
-      <p>Профессиональный аудиокомбайн и DSP-процессор реального времени для macOS с одновременным выводом звука на несколько устройств, компенсацией фазовой задержки через микрофон и аппаратным микшером громкости приложений.</p>
-      <ul>
-        <li>⚡ <b>Low-latency пайплайн:</b> обработка звукового потока с минимальным джиттером.</li>
-        <li>🎛️ <b>Интеграция с виртуальными драйверами:</b> маршрутизация потоков на уровне CoreAudio.</li>
-        <li>🖥️ <b>Нативный интерфейс:</b> лаконичный и быстрый UI на Swift / SwiftUI.</li>
-      </ul>
-    </td>
     <td width="50%" valign="top">
       <div align="center">
         <br/>
         <img src="https://skillicons.dev/icons?i=pytorch,fastapi,docker,python" alt="RecSys Stack" />
         <br/><br/>
-        <h3><a href="https://github.com/Elate11/recsys">🛍️ RecSys Engine & Two-Tower</a></h3>
+        <h3><a href="https://github.com/Elate11/recsys">🛍️ RecSys Engine & Two-Tower Architecture</a></h3>
         <p>
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-          <img src="https://img.shields.io/badge/NeuMF%20%26%20Two--Tower-38BDF8?style=flat-square" />
+          <img src="https://img.shields.io/badge/RecSys-Two--Tower-38BDF8?style=flat-square" />
+          <img src="https://img.shields.io/badge/FastAPI-Production%20API-009688?style=flat-square&logo=fastapi&logoColor=white" />
         </p>
       </div>
-      <p>Комплексная рекомендательная система для e-commerce: от классических эвристических бейзлайнов до нейросетевых архитектур (NeuMF и двухбашенной Two-Tower модели).</p>
+      <p>Сквозная рекомендательная система для e-commerce: от эвристических бейзлайнов популярности до нейросетевых архитектур ранжирования и поиска кандидатов.</p>
       <ul>
-        <li>📊 <b>Синтез данных:</b> генерация реалистичных паттернов кликов и покупок с эмбеддингами.</li>
-        <li>🧠 <b>Оценка ранжирования:</b> вычисление NDCG, Precision@K и Recall@K.</li>
-        <li>🐳 <b>Инференс-сервис:</b> упаковка модели в асинхронный REST API на FastAPI в Docker.</li>
+        <li>🏗️ <b>Архитектуры:</b> реализация и сравнение <b>NeuMF</b> (Neural Matrix Factorization) и двухбашенной <b>Two-Tower</b> модели с разделением пользователей и айтемов на эмбеддинги.</li>
+        <li>📈 <b>Оценка качества:</b> расчёт метрик ранжирования <code>NDCG@K</code>, <code>Precision@K</code>, <code>Recall@K</code> на валидационной выборке.</li>
+        <li>🚀 <b>Production Serving:</b> упаковка модели в асинхронный REST API на FastAPI и развертывание в Docker для инференса в реальном времени.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <br/>
+        <img src="https://skillicons.dev/icons?i=python,pytorch,huggingface,fastapi" alt="NLP Stack" />
+        <br/><br/>
+        <h3><a href="https://github.com/Elate11/sentiment_analysis_project">📝 NLP Toolkit: Sentiment & Summarization</a></h3>
+        <p>
+          <img src="https://img.shields.io/badge/DistilBERT-Fine--Tuning-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+          <img src="https://img.shields.io/badge/Transformers-NLP-FF6F00?style=flat-square" />
+          <img src="https://img.shields.io/badge/CPU%20Optimization-Inference-34D399?style=flat-square" />
+        </p>
+      </div>
+      <p>Пайплайн анализа тональности текста и бенчмарк методов суммаризации текстов с оптимизацией инференса под ограничения CPU.</p>
+      <ul>
+        <li>🎯 <b>Fine-Tuning:</b> дообучение модели <code>distilbert-base-uncased</code> на корпусе пользовательских отзывов с достижением высокой F1-score.</li>
+        <li>🔬 <b>Бенчмарк суммаризации:</b> сравнительный анализ экстрактивного и абстрактивного подходов по качеству сжатия и сохранению контекста.</li>
+        <li>⚡ <b>Inference Optimization:</b> подбор параметров батчинга и квантования для минимальной задержки (latency) инференса на CPU.</li>
       </ul>
     </td>
   </tr>
 
-  <!-- ROW 2: Ticket Booking & BSUIR Client -->
+  <!-- ROW 2: AuraSound Audio ML & Risk Scoring / BSUIR -->
   <tr>
     <td width="50%" valign="top">
       <div align="center">
+        <a href="https://github.com/Elate11/AuraSound">
+          <img src="https://raw.githubusercontent.com/Elate11/AuraSound/main/docs/logo.png" width="85" alt="AuraSound Logo" style="border-radius: 12px; margin-bottom: 6px;" />
+        </a>
         <br/>
-        <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker" alt="Ticket Booking Stack" />
-        <br/><br/>
-        <h3>🎟️ High-Load Ticket Booking API</h3>
+        <h3><a href="https://github.com/Elate11/AuraSound">🎵 AuraSound Max: Audio DSP & Signal Engine</a></h3>
         <p>
-          <img src="https://img.shields.io/badge/Concurrency-Race%20Condition%20Safe-34D399?style=flat-square" />
-          <img src="https://img.shields.io/badge/Redis-TTL%20Hold-DC382D?style=flat-square&logo=redis&logoColor=white" />
-          <img src="https://img.shields.io/badge/Celery-Async%20Tasks-37814A?style=flat-square&logo=celery&logoColor=white" />
+          <img src="https://img.shields.io/badge/C%2B%2B20-Low--Latency-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+          <img src="https://img.shields.io/badge/Audio%20DSP-Spectral%20Analysis-FA7343?style=flat-square" />
+          <img src="https://img.shields.io/badge/SwiftUI-macOS-000000?style=flat-square&logo=apple&logoColor=white" />
         </p>
       </div>
-      <p>Отказоустойчивый сервис бронирования билетов, спроектированный для работы в условиях пиковых нагрузок и ожесточённой конкуренции за места.</p>
+      <p>Системный аудиокомбайн и DSP-процессор для macOS с фазовой акустической компенсацией задержки через микрофон и аппаратным микшером.</p>
       <ul>
-        <li>🔒 <b>Защита от двойных броней:</b> пессимистические блокировки <code>SELECT ... FOR UPDATE</code> и ACID-транзакции.</li>
-        <li>⏳ <b>Временное холдирование:</b> резервирование мест на 5 минут через Redis TTL.</li>
-        <li>⚡ <b>Real-time & Idempotency:</b> мгновенное обновление карты зала по WebSockets и ключи идемпотентности.</li>
+        <li>🌊 <b>Цифровая обработка сигналов (DSP):</b> фазовый анализ, фильтрация частот и алгоритмы компенсации задержки звуковой волны в пространстве.</li>
+        <li>⚡ <b>Высокая производительность:</b> многопоточный C++ аудио-пайплайн с околонулевым джиттером, критичный для real-time audio ML.</li>
+        <li>🎛️ <b>Интеграция:</b> нативный GUI на Swift/SwiftUI с отображением спектрограммы в реальном времени.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <div align="center">
         <br/>
-        <img src="https://skillicons.dev/icons?i=kotlin,android,gradle,idea" alt="Schedule App Stack" />
+        <img src="https://skillicons.dev/icons?i=python,scikitlearn,postgres,docker" alt="ML Engineering Stack" />
         <br/><br/>
-        <h3><a href="https://github.com/Elate11/IIS_BSUIR_Shedule_app">📅 IIS BSUIR Schedule App</a></h3>
+        <h3><a href="https://github.com/Elate11/ml-course-homeworks">📊 ML Foundations & Risk Modeling</a></h3>
         <p>
-          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-          <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
-          <img src="https://img.shields.io/badge/Material%203-000000?style=flat-square" />
+          <img src="https://img.shields.io/badge/Scikit--Learn-Classic%20ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+          <img src="https://img.shields.io/badge/Feature%20Engineering-Data%20Pipes-38BDF8?style=flat-square" />
+          <img src="https://img.shields.io/badge/Jupyter-Research-F37626?style=flat-square&logo=jupyter&logoColor=white" />
         </p>
       </div>
-      <p>Современный неофициальный мобильный клиент личного кабинета студента (ИИС БГУИР) с продуманным UX/UI и оффлайн-доступом.</p>
+      <p>Исследования классических алгоритмов машинного обучения, скоринговых моделей и пайплайнов предобработки данных.</p>
       <ul>
-        <li>🌐 <b>Парсинг & API:</b> авторизация и синхронизация с университетской системой расписания.</li>
-        <li>📱 <b>Material You:</b> адаптивный интерфейс с динамическими темами и умным календарем.</li>
-        <li>💾 <b>Offline-First:</b> надежное локальное кэширование расписания и расписания преподавателей.</li>
+        <li>📉 <b>Алгоритмическая база:</b> градиентный бустинг, ансамбли моделей, оптимизация функций потерь и регуляризация.</li>
+        <li>🔍 <b>Feature Engineering:</b> работа с разреженными матрицами, категоризация, кодирование признаков и борьба с мультиколлинеарностью.</li>
+        <li>🧪 <b>Валидация:</b> стратифицированная кросс-валидация, анализ ROC-AUC / PR-AUC и калибровка вероятностей.</li>
       </ul>
     </td>
   </tr>
@@ -159,7 +162,7 @@
 
 ---
 
-### 📈 Аналитика активности / GitHub Insights
+### 📊 Статистика активности / GitHub Stats
 
 <div align="center">
 
@@ -198,7 +201,7 @@
 
 ---
 
-### 💬 Как со мной связаться / Connect With Me
+### 💬 Связаться со мной / Connect With Me
 
 <div align="center">
 
@@ -210,7 +213,7 @@
 
 <br/><br/>
 
-⭐ *Всегда открыт к интересным предложениям в области Backend-разработки, распределённых систем и low-latency решений.*
+🚀 *Открыт к предложениям и стажировкам в сфере Machine Learning, RecSys, NLP и Applied Deep Learning.*
 
 </div>
 
