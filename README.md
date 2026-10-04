@@ -43,42 +43,26 @@
 
 ### Стек технологий / Core Stack
 
-<table>
-  <tr>
-    <td width="26%" valign="middle"><b>Machine Learning</b></td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&theme=dark" height="34" alt="ML Stack" />
-      <br/>
-      <code>PyTorch</code> &bull; <code>HuggingFace</code> &bull; <code>Transformers</code> &bull; <code>Scikit-Learn</code> &bull; <code>Pandas</code> &bull; <code>NumPy</code> &bull; <code>OpenCV</code>
-      <br/>
-      <small style="color: #8b949e;"><i>Two-Tower candidate retrieval, Neural Collaborative Filtering (NeuMF), ranking metrics (NDCG, Recall@K), quantization</i></small>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="middle"><b>Languages</b></td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=python,cpp,c,swift,kotlin,bash&theme=dark" height="34" alt="Languages" />
-      <br/>
-      <code>Python</code> &bull; <code>C++20</code> &bull; <code>Swift</code> &bull; <code>SQL</code> &bull; <code>Kotlin</code> &bull; <code>Bash</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="middle"><b>Backend &amp; Infra</b></td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,redis,docker,linux,git&theme=dark" height="34" alt="Backend & Infra" />
-      <br/>
-      <code>FastAPI</code> &bull; <code>PostgreSQL</code> &bull; <code>Redis</code> &bull; <code>Docker</code> &bull; <code>Docker Compose</code> &bull; <code>Celery</code> &bull; <code>WebSockets</code> &bull; <code>Git</code> &bull; <code>Linux</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="middle"><b>Systems &amp; DSP</b></td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=cpp,apple,linux&theme=dark" height="34" alt="Systems" />
-      <br/>
-      <code>Digital Signal Processing (DSP)</code> &bull; <code>CoreAudio</code> &bull; <code>ACID &amp; Concurrency Control</code> &bull; <code>Idempotency</code> &bull; <code>Clean Architecture</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,python,fastapi,docker,postgres,c,cpp,swift,kotlin,linux,git,bash&perline=8" alt="ML & Dev Tech Stack" />
+</a>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Two--Tower%20Retrieval-1f2328?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural%20Collaborative%20Filtering%20(NeuMF)-1f2328?style=flat-square" />
+  <img src="https://img.shields.io/badge/HuggingFace%20%26%20Transformers-1f2328?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/DistilBERT%20Fine--Tuning-1f2328?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ranking%20Metrics%20(NDCG%20%2F%20Recall@K)-1f2328?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model%20Quantization%20%26%20Serving-1f2328?style=flat-square" />
+  <img src="https://img.shields.io/badge/Audio%20DSP%20(CoreAudio)-1f2328?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Concurrency%20Control%20%26%20ACID-1f2328?style=flat-square" />
+</p>
+
+</div>
 
 ---
 
