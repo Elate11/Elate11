@@ -113,17 +113,17 @@
         <li>Анализ фазы звуковой волны и акустическая компенсация пространственной задержки.</li>
       </ul>
     </td>
-    <!-- PROJECT 4: High-Concurrency Backend -->
+    <!-- PROJECT 4: IIS BSUIR Schedule App -->
     <td width="50%" valign="top">
-      <h4>🎟️ High-Concurrency Ticket Booking API</h4>
+      <h4><a href="https://github.com/Elate11/IIS_BSUIR_Shedule_app">📅 IIS BSUIR: Client & Schedule App</a></h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker&theme=dark" height="24" alt="Booking Stack" />
+        <img src="https://skillicons.dev/icons?i=kotlin,android&theme=dark" height="24" alt="Schedule App Stack" />
       </p>
-      <p>Отказоустойчивый сервис бронирования, спроектированный для защиты от race conditions в условиях пиковых параллельных нагрузок.</p>
+      <p>Современный мобильный клиент личного кабинета студента (ИИС БГУИР) с умным виджетом и оффлайн-доступом.</p>
       <ul>
-        <li>Защита от двойных броней: транзакции ACID, пессимистические блокировки <code>SELECT ... FOR UPDATE</code> и уникальные ограничения БД.</li>
-        <li>Временное холдирование мест на 5 минут через Redis с автоматическим освобождением по TTL.</li>
-        <li>Асинхронные очереди (Celery) и передача изменений карты зала в реальном времени через WebSockets.</li>
+        <li>Авторизация и полная интеграция с закрытым API личного кабинета университета.</li>
+        <li>Динамический календарь занятий с умными бейджами текущей пары и кэшированием.</li>
+        <li>Чистая архитектура приложения с поддержкой современных гайдлайнов Material You.</li>
       </ul>
     </td>
   </tr>
