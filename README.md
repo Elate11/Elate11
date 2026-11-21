@@ -104,7 +104,7 @@
     <!-- PROJECT 4: IIS BSUIR Schedule App -->
   
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/Elate11/IIS_BSUIR_Shedule_app">IIS BSUIR: Client & Schedule App</a></h4>
       <p>
         <img src="https://skillicons.dev/icons?i=kotlin,android&theme=dark" height="24" alt="Schedule App Stack" />
