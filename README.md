@@ -100,7 +100,10 @@
   </tr>
 
   
+    
     <!-- PROJECT 4: IIS BSUIR Schedule App -->
+  
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Elate11/IIS_BSUIR_Shedule_app">📅 IIS BSUIR: Client & Schedule App</a></h4>
       <p>
