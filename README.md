@@ -100,7 +100,7 @@
 
   
     
-    <!-- PROJECT 4: IIS BSUIR Schedule App -->
+   
   
   <tr>
     <td width="50%" valign="top">
