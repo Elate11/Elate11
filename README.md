@@ -99,20 +99,7 @@
     </td>
   </tr>
 
-  <!-- PROJECT 3: AuraSound Max -->
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Elate11/AuraSound">🎵 AuraSound Max: Real-Time Audio DSP</a></h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=cpp,swift,apple&theme=dark" height="24" alt="AuraSound Stack" />
-      </p>
-      <p>Профессиональный аудиокомбайн и DSP-процессор для macOS с фазовой компенсацией задержки через микрофон и аппаратным микшером.</p>
-      <ul>
-        <li>Многопоточный low-latency аудиопайплайн на C++20 с минимальным джиттером потока данных.</li>
-        <li>Интеграция с виртуальными аудиодрайверами macOS и маршрутизация на уровне CoreAudio.</li>
-        <li>Анализ фазы звуковой волны и акустическая компенсация пространственной задержки.</li>
-      </ul>
-    </td>
+  
     <!-- PROJECT 4: IIS BSUIR Schedule App -->
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Elate11/IIS_BSUIR_Shedule_app">📅 IIS BSUIR: Client & Schedule App</a></h4>
