@@ -72,7 +72,7 @@
   <!-- PROJECT 1: RecSys -->
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Elate11/recsys">🛍️ RecSys: Two-Tower & Neural Ranking</a></h4>
+      <h4><a href="https://github.com/Elate11/recsys">RecSys: Two-Tower & Neural Ranking</a></h4>
       <p>
         <img src="https://skillicons.dev/icons?i=pytorch,fastapi,docker,python&theme=dark" height="24" alt="RecSys Stack" />
       </p>
@@ -85,7 +85,7 @@
     </td>
     <!-- PROJECT 2: NLP Toolkit -->
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Elate11/sentiment_analysis_project">📝 NLP Toolkit: Classification & Summarization</a></h4>
+      <h4><a href="https://github.com/Elate11/sentiment_analysis_project">NLP Toolkit: Classification & Summarization</a></h4>
       <p>
         <img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark" height="24" alt="NLP Stack" />
         <img src="https://img.shields.io/badge/HuggingFace-Transformers-1f2328?style=flat-square&logo=huggingface&logoColor=FFD21E" height="24" alt="HuggingFace" />
@@ -104,8 +104,8 @@
     <!-- PROJECT 4: IIS BSUIR Schedule App -->
   
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Elate11/IIS_BSUIR_Shedule_app">📅 IIS BSUIR: Client & Schedule App</a></h4>
+    <td width="100%" valign="top">
+      <h4><a href="https://github.com/Elate11/IIS_BSUIR_Shedule_app">IIS BSUIR: Client & Schedule App</a></h4>
       <p>
         <img src="https://skillicons.dev/icons?i=kotlin,android&theme=dark" height="24" alt="Schedule App Stack" />
       </p>
